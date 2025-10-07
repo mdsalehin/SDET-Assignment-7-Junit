@@ -86,7 +86,6 @@ Think of it as a **digital assistant**:
 
 ## **Project Structure:**  
 ```text
-=
 ├── JunitAutomationProject/
 │   ├── MyJunit.java               # Web form automation + validation
 │   ├── storeValues.java           # Data scraping + file writing
