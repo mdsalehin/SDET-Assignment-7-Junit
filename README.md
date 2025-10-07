@@ -92,7 +92,8 @@ Think of it as a **digital assistant**:
 │   ├── AcceptCookiesExample.java  # Cookie acceptance demo
 │   ├── Utils.java                 # Scroll helper
 └── resources/
-    ├── cellValuesText.txt     # Scraped data output..
+    ├── cellValuesText.txt         # Scraped data output
+
 
 
 
