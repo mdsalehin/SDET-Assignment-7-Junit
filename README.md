@@ -31,6 +31,10 @@ It automates form submission, validates input data, and scrapes live stock marke
 - `Utils.java` → Helper for scrolling actions  
 
 ---
+## 🎬 Video Demonstration
+- **Watch the project in action here:**
+
+[▶️ Click to Watch Video](https://drive.google.com/file/d/10nbATgRIA4z4JJ8W-21GmGsjia832p5l/view?usp=sharing)
 
 ###  Live Data Scraping (DSE Bangladesh)
 **Goal:** Extract and store live share market data efficiently.  
@@ -61,11 +65,10 @@ It automates form submission, validates input data, and scrapes live stock marke
 | 396 | BDSERVICE    | 0.0    | 0.0    | 0.0    | 5.2     | 5.2    | --     | 0      | 0.0000     | 0         |
 | 397 | SAVAREFR     | 0.0    | 0.0    | 0.0    | 215.5   | 215.5  | --     | 0      | 0.0000     | 0         |
 ---
-**screenshot** 
+##  **Screenshot** 
 <img width="770" height="380" alt="image" src="https://github.com/user-attachments/assets/636dd49e-d862-4402-8ad1-becdcb8ec580" />
 <img width="670" height="444" alt="image" src="https://github.com/user-attachments/assets/fddd6388-d703-4f4d-b70b-dbbfa8fb9839" />
-
-** Everything Together **
+## ** Everything Together **
 <img width="725" height="535" alt="image" src="https://github.com/user-attachments/assets/2c7d096f-35a1-49d4-913b-c8ea0a3c9119" />
 
 ---
