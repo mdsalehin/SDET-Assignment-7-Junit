@@ -85,14 +85,12 @@ Think of it as a **digital assistant**:
 - No human effort, no errors, just fast, reliable results.
 
 JunitAutomationProject/
-|-- MyJunit.java               # Web form automation + validation
-|-- storeValues.java           # Data scraping + file writing
-|-- AcceptCookiesExample.java  # Cookie acceptance demo
-|-- Utils.java                 # Scroll helper
-`-- resources/
-    `-- cellValuesText.txt     # Scraped data output
-
-
+├── MyJunit.java               # Web form automation + validation
+├── storeValues.java           # Data scraping + file writing
+├── AcceptCookiesExample.java  # Cookie acceptance demo
+├── Utils.java                 # Scroll helper
+└── resources/
+    └── cellValuesText.txt     # Scraped data output
 
 
 
