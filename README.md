@@ -84,13 +84,16 @@ Think of it as a **digital assistant**:
 - Then, it collects live stock prices from a website and stores them neatly.  
 - No human effort, no errors, just fast, reliable results.
 
-JunitAutomationProject/
-├── MyJunit.java               # Web form automation + validation
-├── storeValues.java           # Data scraping + file writing
-├── AcceptCookiesExample.java  # Cookie acceptance demo
-├── Utils.java                 # Scroll helper
+## **Project Structure:**  
+```text
+=
+├── JunitAutomationProject/
+│   ├── MyJunit.java               # Web form automation + validation
+│   ├── storeValues.java           # Data scraping + file writing
+│   ├── AcceptCookiesExample.java  # Cookie acceptance demo
+│   ├── Utils.java                 # Scroll helper
 └── resources/
-    └── cellValuesText.txt     # Scraped data output
+    ├── cellValuesText.txt     # Scraped data output..
 
 
 
