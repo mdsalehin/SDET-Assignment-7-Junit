@@ -85,8 +85,6 @@ Think of it as a **digital assistant**:
 - No human effort, no errors, just fast, reliable results.
 
 
-
-## Project Structure
 JunitAutomationProject/
 ├── MyJunit.java              # Web form automation + validation
 ├── storeValues.java          # Data scraping + file writing
@@ -94,6 +92,7 @@ JunitAutomationProject/
 ├── Utils.java                # Scroll helper
 └── resources/
     └── cellValuesText.txt    # Scraped data output
+
 
 
 
