@@ -88,12 +88,12 @@ Think of it as a **digital assistant**:
 
 ## Project Structure
 JunitAutomationProject/
-├── MyJunit.java               # Web form automation + validation
-├── storeValues.java           # Data scraping + file writing
-├── AcceptCookiesExample.java  # Cookie acceptance demo
-├── Utils.java                 # Scroll helper
+├── MyJunit.java              # Web form automation + validation
+├── storeValues.java          # Data scraping + file writing
+├── AcceptCookiesExample.java # Cookie acceptance demo
+├── Utils.java                # Scroll helper
 └── resources/
-    └── cellValuesText.txt     # Scraped data output
+    └── cellValuesText.txt    # Scraped data output
 
 
 
