@@ -46,7 +46,7 @@ It automates form submission, validates input data, and scrapes live stock marke
 - Handles hundreds of rows and columns automatically.  
 - Saves cleanly formatted data into `cellValuesText.txt`.  
 - Fully automated using ChromeDriver.  
-- Sample output:
+- **Sample output**:
 
 
 | #   | TRADING CODE | LTP*   | HIGH   | LOW    | CLOSEP* | YCP*   | CHANGE | TRADE  | VALUE (mn) | VOLUME   |
@@ -60,17 +60,22 @@ It automates form submission, validates input data, and scrapes live stock marke
 | 395 | ATCSLGF      | 0.0    | 0.0    | 0.0    | 7.5     | 7.5    | --     | 0      | 0.0000     | 0         |
 | 396 | BDSERVICE    | 0.0    | 0.0    | 0.0    | 5.2     | 5.2    | --     | 0      | 0.0000     | 0         |
 | 397 | SAVAREFR     | 0.0    | 0.0    | 0.0    | 215.5   | 215.5  | --     | 0      | 0.0000     | 0         |
+---
+**screenshot** 
+<img width="770" height="380" alt="image" src="https://github.com/user-attachments/assets/636dd49e-d862-4402-8ad1-becdcb8ec580" />
+<img width="670" height="444" alt="image" src="https://github.com/user-attachments/assets/fddd6388-d703-4f4d-b70b-dbbfa8fb9839" />
 
+** Everything Together **
+<img width="725" height="535" alt="image" src="https://github.com/user-attachments/assets/2c7d096f-35a1-49d4-913b-c8ea0a3c9119" />
 
-
-
+---
 
 **Files:**  
 - `storeValues.java` → Scraping and file writing logic  
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 | Category | Tools & Libraries |
 |----------|------------------|
 | Language | Java |
