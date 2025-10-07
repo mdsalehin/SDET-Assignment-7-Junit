@@ -87,7 +87,6 @@ Think of it as a **digital assistant**:
 
 
 ## Project Structure
-
 JunitAutomationProject/
 ├── MyJunit.java               # Web form automation + validation
 ├── storeValues.java           # Data scraping + file writing
@@ -95,7 +94,6 @@ JunitAutomationProject/
 ├── Utils.java                 # Scroll helper
 └── resources/
     └── cellValuesText.txt     # Scraped data output
-
 
 
 
